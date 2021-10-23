@@ -1,7 +1,7 @@
 ### python_for_finance
 
 Libraries Used :
-`import numpy as np        
+`import numpy as np                                                                                                                            
  import matplotlib.pyplot as plt       
  import pandas as pd                     
  import math                   
