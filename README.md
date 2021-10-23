@@ -1,6 +1,6 @@
 ### python_for_finance
 
-Libraries Used :
+Python Libraries Used :
  1. import numpy as np                                                                                                                        
  2. import matplotlib.pyplot as plt       
  3. import pandas as pd                     
