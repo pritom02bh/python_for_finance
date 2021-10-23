@@ -1,10 +1,10 @@
 ### python_for_finance
 
 Libraries Used :
-`import numpy as np   <br>                                                                                                                         
- import matplotlib.pyplot as plt       
- import pandas as pd                     
- import math                   
- import random                       
- import statsmodels              
- import pandas_datareader`
+ 1. import numpy as np                                                                                                                        
+ 2. import matplotlib.pyplot as plt       
+ 3. import pandas as pd                     
+ 4. import math                   
+ 5. import random                       
+ 6. import statsmodels              
+ 7. import pandas_datareader
